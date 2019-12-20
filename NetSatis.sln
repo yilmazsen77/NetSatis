@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29519.87
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetSatis.Entities", "NetSatis.Entities\NetSatis.Entities.csproj", "{28FD0C0A-231B-41E9-A1D6-563903816BF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetSatis.BackOffice", "NetSatis.BackOffice\NetSatis.BackOffice.csproj", "{093118B5-0ED1-40B1-992A-B0D350A489C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetSatis.FrontOffice", "NetSatis.FrontOffice\NetSatis.FrontOffice.csproj", "{5D173B71-36F7-4130-A01B-C7AFDD57C354}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{28FD0C0A-231B-41E9-A1D6-563903816BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28FD0C0A-231B-41E9-A1D6-563903816BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28FD0C0A-231B-41E9-A1D6-563903816BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{093118B5-0ED1-40B1-992A-B0D350A489C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093118B5-0ED1-40B1-992A-B0D350A489C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093118B5-0ED1-40B1-992A-B0D350A489C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093118B5-0ED1-40B1-992A-B0D350A489C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D173B71-36F7-4130-A01B-C7AFDD57C354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D173B71-36F7-4130-A01B-C7AFDD57C354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D173B71-36F7-4130-A01B-C7AFDD57C354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D173B71-36F7-4130-A01B-C7AFDD57C354}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
